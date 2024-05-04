@@ -1,0 +1,233 @@
+﻿{
+    "Config":  {
+                   "Name":  "",
+                   "AdminName":  "",
+                   "AgreeEula":  true
+               },
+    "Wsus":  {
+                 "Server":  "localhost",
+                 "Port":  8530,
+                 "IisWsusPoolPath":  "iis:\\AppPools\\WsusPool",
+                 "UseSsl":  false,
+                 "PreferredCulture":  "en",
+                 "InvokeWsusSynchronization":  false
+             },
+    "RequiresVersion":  "0.2024.430",
+    "UpdatesFindMode":  {
+                            "ApprovedStates":  [
+                                                   "NotApproved",
+                                                   "LatestRevisionApproved"
+                                               ],
+                            "MinimumDate":  "2015/7/1",
+                            "MaximumRetry":  3,
+                            "ForceHalfModePerMonthLength":  2000
+                        },
+    "ChooseVersions":  {
+                           "Windows 11":  [
+                                              {
+                                                  "Version":  "21H2",
+                                                  "arm64":  false,
+                                                  "x64":  false
+                                              },
+                                              {
+                                                  "Version":  "22H2",
+                                                  "arm64":  false,
+                                                  "x64":  false
+                                              },
+                                              {
+                                                  "Version":  "23H2",
+                                                  "arm64":  false,
+                                                  "x64":  true
+                                              }
+                                          ],
+                           "Windows 10":  [
+                                              {
+                                                  "Version":  "1507",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "1511",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "1607",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "1703",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "1709",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "1803",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "1809",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "19H1",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "19H2",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "20H1",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "20H2",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "21H1",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "21H2",
+                                                  "arm64":  false,
+                                                  "x64":  false,
+                                                  "x86":  false
+                                              },
+                                              {
+                                                  "Version":  "22H2",
+                                                  "arm64":  false,
+                                                  "x64":  true,
+                                                  "x86":  false
+                                              }
+                                          ],
+                           "Visual Studio":  [
+                                                 {
+                                                     "Version":  "15.9"
+                                                 },
+                                                 {
+                                                     "Version":  "16.11"
+                                                 },
+                                                 {
+                                                     "Version":  "17"
+                                                 }
+                                             ]
+                       },
+    "ChooseProducts":  {
+                           "Windows 11":  {
+                                              "Configure":  true,
+                                              "FilterType":  "Title",
+                                              "BusinessUpgrade":  true,
+                                              "ConsumerUpgrade":  true,
+                                              "ExcludeLanguages":  "ja-jp",
+                                              "DeclineSupersededUpgrades":  true
+                                          },
+                           "Windows 10":  {
+                                              "Configure":  true,
+                                              "FilterType":  "Title",
+                                              "BusinessUpgrade":  true,
+                                              "ConsumerUpgrade":  false,
+                                              "ExcludeLanguages":  "ja-jp",
+                                              "DeclinePreviewUpdate":  true,
+                                              "DeclineSupersededUpgrades":  true
+                                          },
+                           "Microsoft Edge":  {
+                                                  "Configure":  true,
+                                                  "FilterType":  "Title",
+                                                  "arm64":  false,
+                                                  "x64":  true,
+                                                  "x86":  false,
+                                                  "Beta":  false,
+                                                  "Dev":  false,
+                                                  "Stable":  false,
+                                                  "ExtendedStable":  true,
+                                                  "WebView2Runtime":  true,
+                                                  "DeclineOldVersion":  true
+                                              },
+                           "Malicious Software Removal Tool":  {
+                                                                   "Configure":  true,
+                                                                   "FilterType":  "Title",
+                                                                   "x64":  true,
+                                                                   "x86":  false,
+                                                                   "DeclineOldVersion":  true
+                                                               },
+                           "Microsoft Defender Antivirus":  {
+                                                                "Configure":  true,
+                                                                "FilterType":  "Title",
+                                                                "DeclineOldVersion":  true
+                                                            },
+                           "Office":  {
+                                          "Configure":  true,
+                                          "FilterType":  "Title",
+                                          "x64":  true,
+                                          "x86":  false
+                                      },
+                           "Visual Studio":  {
+                                                 "Configure":  true,
+                                                 "FilterType":  "Title"
+                                             }
+                       },
+    "DeclineOptions":  {
+                           "CleanupWizard":  {
+                                                 "CompressUpdates":  true,
+                                                 "CleanupObsoleteUpdates":  true,
+                                                 "CleanupObsoleteComputers":  false,
+                                                 "CleanupUnneededContentFiles":  true,
+                                                 "DeclineExpiredUpdates":  true,
+                                                 "DeclineSupersededUpdates":  true
+                                             },
+                           "ForceDeclineSupersededUpdates":  false
+                       },
+    "DeclineRules":  null,
+    "ApproveRules":  null,
+    "MaintenanceSql":  {
+                           "CreateCustomIndexes":  false,
+                           "UpdateStatisticsAndDbccDbReIndex":  false,
+                           "WsusDBMaintenance":  false,
+                           "SqlCmdMode":  "psmodule"
+                       },
+    "ScheduledTask":  {
+                          "Name":  "Optimize-WsusContents"
+                      },
+    "WizardView":  {
+                       "DetectiveInstalledComponents":  true,
+                       "ShowOptionTab":  true,
+                       "ShowServerTab":  true,
+                       "ShowSyncWindowsProductsTab":  true,
+                       "ShowDeclineRuleTab":  true,
+                       "ShowApproveRuleOptionsTab":  false,
+                       "ShowScheduleTab":  true,
+                       "ShowAboutTab":  true
+                   },
+    "Log":  {
+                "IsLogging":  true,
+                "MaximumCount":  10,
+                "Debug":  false,
+                "Verbose":  true
+            }
+}

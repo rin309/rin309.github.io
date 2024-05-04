@@ -1,0 +1,58 @@
+﻿"Title","ProductTitles","ProductIds","CreationDate","LegacyName","Id.RevisionNumber","Id.UpdateId","KnowledgebaseArticles","SecurityBulletins","UpdateClassificationTitle","UpdateClassificationId","ProductFamilyTitles","UpdateType","Action"
+"Windows Malicious Software Removal Tool x64 - v5.120 (KB890830)","Windows 10 LTSB
+Windows 10, version 1903 and later
+Windows 10
+Windows 11
+Windows 8.1
+Windows Server 2012 R2
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server, version 1903 and later","d2085b71-5f1f-43a9-880d-ed159016d5c6
+b3c75dc1-155f-4be4-b015-3f1a91758e52
+a3c2375d-0c8a-42f9-bce0-28333e198407
+72e7624a-5b00-45d2-b92f-e561c0a6a160
+6407468e-edc7-4ecd-8c32-521f64cee65e
+d31bd4c3-d872-41c9-a2e7-231f372588cb
+a105a108-7c9b-4518-bbbe-73f0fe30012b
+569e8e8f-c6cd-42c8-92a3-efbb20a0f6f5
+f702a48c-919b-45d6-9aef-ca4248d50397
+21210d67-50bc-4254-a695-281765e10665","2024/01/09 18:00:00","890830_X64_WIN8TP_MRT_v5.120","200","1264792e-5d98-43ac-b7c3-fb7fa5b67b61","890830","","Update Rollups","28bc880e-0592-4cbf-8f95-c79b17911d5f","Windows","Software"," < 5.123"
+"Windows Malicious Software Removal Tool x64 - v5.121 (KB890830)","Windows 10 LTSB
+Windows 10, version 1903 and later
+Windows 10
+Windows 11
+Windows 8.1
+Windows Server 2012 R2
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server, version 1903 and later","d2085b71-5f1f-43a9-880d-ed159016d5c6
+b3c75dc1-155f-4be4-b015-3f1a91758e52
+a3c2375d-0c8a-42f9-bce0-28333e198407
+72e7624a-5b00-45d2-b92f-e561c0a6a160
+6407468e-edc7-4ecd-8c32-521f64cee65e
+d31bd4c3-d872-41c9-a2e7-231f372588cb
+a105a108-7c9b-4518-bbbe-73f0fe30012b
+569e8e8f-c6cd-42c8-92a3-efbb20a0f6f5
+f702a48c-919b-45d6-9aef-ca4248d50397
+21210d67-50bc-4254-a695-281765e10665","2024/02/13 18:00:00","890830_X64_WIN8TP_MRT_v5.121","200","0049e7fc-6265-4809-869d-847302877958","890830","","Update Rollups","28bc880e-0592-4cbf-8f95-c79b17911d5f","Windows","Software"," < 5.123"
+"Windows Malicious Software Removal Tool x64 - v5.122 (KB890830)","Windows 10 LTSB
+Windows 10, version 1903 and later
+Windows 10
+Windows 11
+Windows 8.1
+Windows Server 2012 R2
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server, version 1903 and later","d2085b71-5f1f-43a9-880d-ed159016d5c6
+b3c75dc1-155f-4be4-b015-3f1a91758e52
+a3c2375d-0c8a-42f9-bce0-28333e198407
+72e7624a-5b00-45d2-b92f-e561c0a6a160
+6407468e-edc7-4ecd-8c32-521f64cee65e
+d31bd4c3-d872-41c9-a2e7-231f372588cb
+a105a108-7c9b-4518-bbbe-73f0fe30012b
+569e8e8f-c6cd-42c8-92a3-efbb20a0f6f5
+f702a48c-919b-45d6-9aef-ca4248d50397
+21210d67-50bc-4254-a695-281765e10665","2024/03/12 17:00:00","890830_X64_WIN8TP_MRT_v5.122","200","2c6db99f-8d39-4580-8474-31c45fb79525","890830","","Update Rollups","28bc880e-0592-4cbf-8f95-c79b17911d5f","Windows","Software"," < 5.123"

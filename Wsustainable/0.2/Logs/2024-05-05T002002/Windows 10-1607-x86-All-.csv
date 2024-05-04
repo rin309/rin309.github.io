@@ -1,0 +1,146 @@
+﻿"Title","ProductTitles","ProductIds","CreationDate","LegacyName","Id.RevisionNumber","Id.UpdateId","KnowledgebaseArticles","SecurityBulletins","UpdateClassificationTitle","UpdateClassificationId","ProductFamilyTitles","UpdateType","Action"
+"Dynamic Update for Windows 10 Version 1607 (KB4013419)","Windows 10 and later Dynamic Update
+Windows Safe OS Dynamic Update","e4b04398-adbd-4b69-93b9-477322331cd3
+dd1aa213-54e7-4173-8456-b278964a26b6","2017/03/14 17:00:03","KB4013419-Windows10Rs1Client-RTM-SafeOSDU-X86-TSL-World","201","d63c5acf-5946-4571-90a1-664a8a695e8f","4013419","","Critical Updates","e6cf1350-c01b-414d-a61f-263d14d133b4","Windows","Software",""
+"2019-05 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4495610)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2019/05/14 17:00:00","KB4495610-DOTNET-X86-TSL","200","20f30b7c-93e5-45c8-8ebe-1c9822b24be6","4495610","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2019-07 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4506986)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2019/07/09 17:00:00","KB4506986-DOTNET-X86-TSL","200","9354ae54-a1ec-47ed-abd4-11139a2e1e64","4506986","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2019-06 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4502560)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2019/06/18 17:00:00","KB4502560-DOTNET-X86-TSL","200","f9c79dc0-bc09-44e4-a16d-b8cc4c3eba41","4502560","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2019-09 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4514354)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2019/09/10 17:00:00","KB4514354-DOTNET-X86-TSL","200","59135f63-79f7-434a-991f-5c16581e50b6","4514354","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2019-08 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4511518)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2019/08/20 17:00:00","KB4511518-DOTNET-X86-TSL","200","34d03f36-cdd3-45a5-ab22-bd65db094ae8","4511518","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2019-09 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4515839)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2019/09/24 17:00:00","KB4515839-DOTNET-X86-TSL","201","4ba130a1-6534-41a2-a889-2f00d654a29e","4515839","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2019-10 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4519562)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2019/10/15 17:00:00","KB4519562-DOTNET-X86-TSL","200","49f1048a-dae0-4548-b296-a01785e34b63","4519562","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2019-10 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4524095)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2019/10/08 17:00:00","KB4524095-DOTNET-X86-TSL","201","14230adb-061d-4dd4-b25e-25cf68dd0f79","4524095","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2019-12 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4532997)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2019/12/10 18:00:00","KB4532997-DOTNET-X86-TSL","200","fb9707f5-f4ef-4cc8-94ad-51d2f633ee85","4532997","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2020-02 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4534126)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2020/02/11 18:00:00","KB4534126-DOTNET-X86-TSL","200","106de8fd-f720-4609-8aba-a0340b1fedcc","4534126","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2020-01 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4534126)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2020/01/23 22:00:00","KB4534126-DOTNET-X86-TSL","201","54a461a5-bed1-4727-b473-16f84943f2ad","4534126","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2020-01 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4532933)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2020/01/14 18:00:00","KB4532933-DOTNET-X86-TSL","200","47e8a7e3-636e-44aa-9480-35949800a8e5","4532933","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2020-02 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4537477)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2020/02/25 18:00:00","KB4537477-DOTNET-X86-TSL","202","97744693-37e5-4702-b39e-677182f9e802","4537477","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2020-05 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4552926)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2020/05/12 17:00:00","KB4552926-DOTNET-X86-TSL","202","09541f56-6585-4be3-9acb-ec8b55f9d36a","4552926","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2020-07 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4565628)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2020/07/14 17:00:00","KB4565628-DOTNET-X86-TSL","200","7aa9613e-dc95-408c-b003-5f60bb5683b3","4565628","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2020-08 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4569746)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2020/08/11 17:00:00","KB4569746-DOTNET-X86-TSL","200","0ffadf9b-fe14-470b-aaea-70da3c8be989","4569746","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2020-09 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4576479)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2020/09/08 17:00:00","KB4576479-DOTNET-X86-TSL","200","a2497c30-7a55-4413-9c3c-303eaaf22509","4576479","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2020-10 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4578969)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2020/10/13 17:00:00","KB4578969-DOTNET-X86-TSL","200","b13bc5d8-ceb5-4db3-9164-51ff8a5fdab9","4578969","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2021-01 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4597247)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2021/01/12 18:00:00","KB4597247-DotNetCumulative-Client-x86-Retail","200","8649e40b-1073-42f7-9583-351d5a605dc4","4597247","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2020-11 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4585207)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2021/01/12 18:00:00","KB4585207-DOTNET-X86-TSL","201","c68e5575-9627-4ce5-8996-a73b57d2fcaa","4585207","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2021-02 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB4601051)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2021/02/09 18:00:00","KB4601051-DotNetCumulative-Client-x86-Retail","201","e71957a7-5959-41d1-a4ac-c09d9d32fbfb","4601051","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2021-05 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5001841)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2021/05/11 17:00:00","KB5001841-DotNetCumulative-Client-x86-Retail","200","84f954e5-6dee-4a8a-9772-555b82deaee7","5001841","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2021-06 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5003542)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2021/06/08 17:00:00","KB5003542-DotNetCumulative-Client-x86-Retail","200","6066bc24-39f9-4951-9866-77f7e986090f","5003542","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2021-07 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5004115)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2021/07/13 17:00:00","KB5004115-DotNetCumulative-Client-x86-Retail","200","aafd9d2c-9862-420b-b9c9-53b8be9bda93","5004115","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2021-08 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5004752)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2021/08/10 17:00:00","KB5004752-DotNetCumulative-Client-x86-Retail","200","63e28c84-4650-4f16-9b34-a871690ceac7","5004752","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2021-10 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5006065)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2021/10/12 17:00:00","KB5006065-DotNetCumulative-Client-x86-Retail","200","c6b021d7-61d6-4d38-8c16-4ba419c69fa3","5006065","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2021-11 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5007152)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2021/11/09 18:00:00","KB5007152-DotNetCumulative-Client-x86-Retail","200","6224111c-7da8-4f39-b758-e062627ee5e2","5007152","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2022-01 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5008877)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/01/11 18:00:00","KB5008877-RS1-Client-x86-Retail","200","ea2dbe76-0999-45ac-ada1-d316afbeca75","5008877","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2022-02 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5010460)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/02/08 18:00:00","KB5010460-RS1-Client-x86-Retail","200","4fd9034f-9687-4f2f-80ff-a362e0737c2e","5010460","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2022-04 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5012118)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/04/12 17:00:00","KB5012118-DotNetCumulative-RS1-Client-x86-Retail","200","39b0464e-f56e-490d-b0fa-bbdde81d1755","5012118","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2022-05 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5013625)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/05/10 17:00:00","KB5013625-DotNetCumulative-RS1-Client-x86-Retail","200","ecd6c807-7133-455f-8c9f-7e8cb0755dfc","5013625","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2022-06 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5014630)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/06/14 17:00:00","KB5014630-DotNetCumulative-RS1-Client-x86-Retail","200","4efc2093-4735-45ca-a6aa-b8d23cf243c5","5014630","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2022-08 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5016373)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/08/09 17:00:00","KB5016373-DotNetCumulative-RS1-Client-x86-Retail","200","3c9adf8c-8f7a-42be-8fca-cbe62e211c41","5016373","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2022-09 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5017035)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/09/13 17:00:00","KB5017035-DotNetCumulative-RS1-Client-x86-Retail","200","b4025175-45e6-4bbe-ac2e-c5d4ad523e98","5017035","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2022-10 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5018515)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/10/11 17:00:00","KB5018515-DotNetCumulative-RS1-Client-x86-Retail","200","b08fa013-90cf-41c2-84f1-b8aa666d82a3","5018515","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2022-11 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5020614)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/11/08 18:00:00","KB5020614-DotNetCumulative-RS1-Client-x86-Retail","200","dacf45d6-e1e8-4cd4-983d-9d66696c4f54","5020614","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2022-12 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5020873)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2022/12/13 18:00:00","KB5020873-DotNetCumulative-RS1-Client-x86-Retail","200","04678195-da57-4416-824d-4357d2f2515b","5020873","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2023-02 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5022503)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2023/02/14 18:00:00","KB5022503-DotNetCumulative-RS1-Client-x86-Retail","201","5a80eff9-a7a1-48ea-b36e-f07ce5a4a718","5022503","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2023-06 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5027123)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2023/06/13 17:00:00","KB5027123-DotNetCumulative-RS1-Client-x86-Retail","200","88be53f9-f605-408d-9e89-3ccce71a96f2","5027123","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2023-07 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5028854)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2023/07/11 17:00:00","KB5028854-DotNetCumulative-RS1-Client-x86-Retail","200","733981fd-1bb3-410c-8de7-1dc72c5d763a","5028854","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2023-08 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5028952)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2023/08/08 17:00:00","KB5028952-DotNetCumulative-RS1-Client-x86-Retail","200","4a9aec0a-9162-4811-9f20-78221c361359","5028952","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2023-09 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5029924)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2023/09/12 17:00:00","KB5029924-DotNetCumulative-RS1-Client-x86-Retail","200","fa37097a-d2ac-4bd0-a764-d549d1b20870","5029924","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2023-10 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5031000)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2023/10/10 17:00:00","KB5031000-DotNetCumulative-RS1-Client-x86-Retail","200","865275b9-fd28-4070-8590-526a06a98c87","5031000","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2023-11 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5031989)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2023/11/14 18:00:00","KB5031989-DotNetCumulative-RS1-Client-x86-Retail","200","4ce5dabd-757f-42dc-9f9c-83e1d6a3d7d4","5031989","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2024-01 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5033910)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2024/01/09 18:00:00","KB5033910-DotNetCumulative-RS1-Client-x86-Retail","200","edc247a6-0b55-495a-9f62-6aec8ebfc2e3","5033910","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"2024-02 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5034614)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2024/02/13 18:00:00","KB5034614-DotNetCumulative-RS1-Client-x86-Retail","200","db9997ac-419d-4909-ac6b-4366d83f48ce","5034614","","Updates","cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83","Windows","Software",""
+"2024-04 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1607 (KB5036609)","Windows 10 LTSB
+Windows 10","d2085b71-5f1f-43a9-880d-ed159016d5c6
+a3c2375d-0c8a-42f9-bce0-28333e198407","2024/04/09 17:00:00","KB5036609-DotNetCumulative-RS1-Client-x86-Retail","200","eae046a5-0eda-46ec-82d2-e17831a60f9b","5036609","","Security Updates","0fa1201d-4330-4fa8-8ae9-b877473b6441","Windows","Software",""
+"Dynamic Update for Windows 10 Version 1607 (KB3197099)","Windows 10 and later Dynamic Update","e4b04398-adbd-4b69-93b9-477322331cd3","2016/10/11 17:00:00","KB3197099-Windows10Rs1Client-RTM-CriticalDU-X86-TSL-World","201","2a03a768-87f8-427d-aa57-60ee49e44b5d","3197099","","Critical Updates","e6cf1350-c01b-414d-a61f-263d14d133b4","Windows","Software",""
